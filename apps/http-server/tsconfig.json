@@ -1,0 +1,10 @@
+{
+  "extends": "../../packages/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": "src",
+    "noEmit": false
+  },
+  "include": ["src"]
+}
+
